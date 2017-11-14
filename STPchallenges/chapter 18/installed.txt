@@ -1,0 +1,2 @@
+intalled the beautifulsoup module using the pip command in the windows command line 
+right clicked to run as administrator 
